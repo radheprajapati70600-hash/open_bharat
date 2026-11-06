@@ -1,0 +1,6 @@
+{
+  "name": "Open Bharat",
+  "description": "Indian smart web browser with daily motivational shayari, quick apps, and reward points for browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

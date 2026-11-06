@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Open Bharat</string>
+    <string name="title_open_bharat">🇮🇳 ओपन भारत</string>
+    <string name="search_hint">यहाँ गूगल सर्च या URL दर्ज करें…</string>
+    <string name="search_button">खोजें</string>
+    <string name="daily_shayari_title">✨ आज की प्रेरणादायक शायरी ✨</string>
+    <string name="redeem_button_label">🎁 पॉइंट्स रिडीम करें और मोबाइल रिचार्ज जीतें!</string>
+    <string name="wallet_title">रिवॉर्ड वॉलेट (Reward Wallet)</string>
+    <string name="wallet_info">हर सर्च पर 10 पॉइंट्स मिलते हैं! पॉइंट्स से मोबाइल रिचार्ज और उपहार वाउचर प्राप्त करें।</string>
+</resources>
